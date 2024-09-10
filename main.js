@@ -1,5 +1,3 @@
-// انشئ obj  اسمه User 
-
 // Q1 
 const user = {
     name: 'najwa',
