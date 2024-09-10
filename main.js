@@ -31,6 +31,9 @@ console.log(user.name);
 // modify the value of property id and print 
 user.modifyId(21);
 console.log(user.id);
+// or 
+// user.id=44
+
 // delete the property email and print
 delete user.email
 console.log(user);
